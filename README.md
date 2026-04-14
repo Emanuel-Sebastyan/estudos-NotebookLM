@@ -27,7 +27,7 @@ Durante o desenvolvimento no NotebookLM, foram realizados testes para refinar as
 
 * **Prompt 1 (Genérico):** "Quais são os melhores indicadores de ações?"
     * *Dificuldade:* A IA retornou uma lista padrão sem contexto sobre o setor da empresa.
-* **Prompt 2 (Estratégico/Refinado):** "Com base nas fontes fornecidas, explique como o equilíbrio entre o P/L e a eficiência operacional define uma boa oportunidade de investimento em empresas brasileiras."
+* **Prompt 2 (Refinado):** "Com base nas fontes fornecidas, explique como o equilíbrio entre o P/L e a eficiência operacional define uma boa oportunidade de investimento em empresas brasileiras."
     * *Resultado:* A IA conseguiu conectar o conceito de preço (P/L) com a capacidade de entrega da empresa (ROI/ROE), destacando a importância de lucros consistentes.
 
 
