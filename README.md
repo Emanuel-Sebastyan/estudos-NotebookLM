@@ -19,7 +19,7 @@ Para este projeto, foram selecionadas **17 fontes** de alta qualidade, incluindo
 
 1.  **Investidor Sardinha (Raul Sena)**: [Como analisar uma ação do zero](https://www.youtube.com/watch?v=cWNqf1gifR8) - Foco em critérios práticos e mentalidade de sócio.
 2.  **Primo Rico (Thiago Nigro)**: [Análise Fundamentalista na prática](https://www.youtube.com/watch?v=VPWAN5QPXJw) - Explicação de indicadores e métricas de valuation.
-3.  **Guias de Sites Especializados**: Artigos focados em governança corporativa e vantagens competitivas (MOAT).
+3.  **Guias de Sites Especializados**: Artigos focados em governança corporativa, Analises Fundamentalista e artigos.
 4.  **Transcrições de Especialistas**: Conteúdos convertidos em texto para facilitar a correlação de dados dentro do NotebookLM.
 
 ## Engenharia de Prompts e "Cicatrizes"
